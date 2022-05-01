@@ -7,3 +7,6 @@ export const wrongPassword = "222222222";
 
 export const loginErrorMessage =
   "There was a problem with this request. We're working on getting it fixed as soon as we can.";
+
+export const teslaUrl = "https://www.tesla.com/";
+export const modelSUrl = "https://www.tesla.com/models";
