@@ -10,3 +10,4 @@ export const loginErrorMessage =
 
 export const teslaUrl = "https://www.tesla.com/";
 export const modelSUrl = "https://www.tesla.com/models";
+export const compareUrl = "https://www.tesla.com/compare";

@@ -6,8 +6,12 @@ describe("Tesla.com automation testing", () => {
     cy.visit("https://www.tesla.com/models");
   });
 
-  it("Test One", () => {
-    onModelSPage.urlVerification();
-    onModelSPage.privacyVerification();
+  //   it("Test One", () => {
+  //     onModelSPage.urlVerification();
+  //     onModelSPage.privacyVerification();
+  //   });
+
+  it("Compare test", () => {
+    onModelSPage.modelSComparePage();
   });
 });

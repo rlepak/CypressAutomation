@@ -1,4 +1,5 @@
 {
   "baseUrl": "https://wikipedia.org",
-  "chromeWebSecurity": false
+  "chromeWebSecurity": false,
+  "projectId": "omtfok"
 }
