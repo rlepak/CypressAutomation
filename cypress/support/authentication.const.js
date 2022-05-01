@@ -11,3 +11,8 @@ export const loginErrorMessage =
 export const teslaUrl = "https://www.tesla.com/";
 export const modelSUrl = "https://www.tesla.com/models";
 export const compareUrl = "https://www.tesla.com/compare";
+
+export const udemyUrl = "https://www.udemy.com/";
+export const googleUrl = "https://www.google.com/";
+export const gitHub = "https://github.com/";
+export const gitHubLoginPage = "https://github.com/login";
