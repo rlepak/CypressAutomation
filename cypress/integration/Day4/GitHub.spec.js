@@ -10,6 +10,6 @@ describe("Udemy test cases", () => {
   });
 
   it("Navigate to back page", () => {
-    onGitHubPage.navigateToTheMainPage();
+    onGitHubPage.navigateToTheMainPage;
   });
 });

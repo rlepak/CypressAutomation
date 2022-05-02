@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "TeslaModelS": "npx cypress run --record --key ed77d2c5-4e0f-4f9e-a291-d9bb729b0222 --spec 'cypress/integration/Day3/Tesla.js'"
+    "TeslaModelS": "npx cypress run --record --key ed77d2c5-4e0f-4f9e-a291-d9bb729b0222 --spec 'cypress/integration/Day3/Tesla.js'",
+    "gitHubPage": "npx cypress run --record --key ed77d2c5-4e0f-4f9e-a291-d9bb729b0222 --spec '/Users/ruslan/Desktop/CypressPractice/cypress/integration/Day4/GitHub.spec.js'"
   },
   "author": "Ruslan",
   "license": "ISC",
@@ -12,8 +13,5 @@
     "@faker-js/faker": "^6.2.0",
     "cypress": "^9.6.0",
     "cypress-file-upload": "^5.0.8"
-  },
-  "dependencies": {
-    "faker": "^6.6.6"
   }
 }
